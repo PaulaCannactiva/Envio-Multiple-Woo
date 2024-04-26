@@ -10,7 +10,7 @@ Modificaciones Realizadas:
 Archivo afectado: functions.php
 
 Descripción:
-Se añadió una función que muestra opciones de envío para cada producto en el área de revisión del pedido (order review). Esta función se engancha en el hook woocommerce_checkout_cart_item_quantity.
+Se añadió una función que muestra opciones de envío para cada producto en el área de revisión del pedido (order review). Esta función se engancha en el hook woocommerce_checkout_cart_item_quantity. También añadimos un texto 'Elije una opciónde envio' y configuramos preseleccion del checkbox.
 
 Código:
 
